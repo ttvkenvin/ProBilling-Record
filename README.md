@@ -1,4 +1,4 @@
-![image]()
+![image](https://github.com/ttvkenvin/ProBilling-Record/blob/master/180x180.png)
 
 # ProBilling-Record
 
@@ -13,7 +13,10 @@ Features:
 3. Statistics of monthly consumption ratio
 
 # Screenshort
-![image]()
+![image](https://github.com/ttvkenvin/ProBilling-Record/blob/master/1.png)
+![image](https://github.com/ttvkenvin/ProBilling-Record/blob/master/2.png)
+![image](https://github.com/ttvkenvin/ProBilling-Record/blob/master/3.png)
+![image](https://github.com/ttvkenvin/ProBilling-Record/blob/master/4.png)
 
 # contact
 
